@@ -1,0 +1,2 @@
+Model,precision,recall,f1,roc_auc,pr_auc,threshold,true_positives,false_positives,true_negatives,false_negatives,false_positive_rate,fraud_detection_rate
+Random Forest,0.9979035639412998,0.8561151079136691,0.9215876089060987,0.99998220323741,0.9975163607698357,0.88,476,1,99999,80,1e-05,0.8561151079136691
